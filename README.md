@@ -35,7 +35,7 @@
 3. Which modules on your transcript correspond to "Embedded Programming", "Signals and Networking" and "Information Theory" on your CV, and whether Embedded Programming involved C or C++?
 
 
-| CV Course | Corresponding Cours(es) | Additional Comments |
+| CV Course | Corresponding Transcript Course | Additional Comments |
 | -: | - | - | 
 | Embedded Programming| Engineering Software  | Year 3 course where we programmed the Microblaze microprocessor on the Xilinx (AMD) Basys 3 board **using C**. |
 | Signals and Networking | Signals and Communication Systems 3 | Year 3 course that taught the basics of signals worked, how communication devices worked and basic information theory. |
