@@ -61,7 +61,7 @@
 > I've majorly used Python's `threading` and `multiprocessing` when I need concurrency, probably as a consequence of the fact that Python is my most used language. I did quite a bit of this at Mercedes, which is a private codebase and I can't access that. We could discuss this in the meeting too. I did do some coursework when learning concurrency and I often use it for data preprocessing. I will add some of those files in [`/concurrency`](/concurrency/), but they're probably not the best response to "the most concurrent code I've written". 
 
 ---
-The most concurrent code you have written, and in which language. 
+ 
 *Final Question from your email broken down into points:*
 
 Details on...
