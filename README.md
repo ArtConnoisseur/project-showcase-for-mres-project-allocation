@@ -23,8 +23,8 @@
 
 > This project was part of coursework undertaken during my undergraduate degree. This corresponds to the Digital Systems Laboratory course on my transcript from Edinburgh Uni (Result: 80/100). [This repository on GitHub](https://github.com/ArtConnoisseur/microprocessor-in-verilog/tree/main) contains the implementation for this project. There is no README for the repo, instead, as a part of the submission I provided README.pdfs which are linked here:
 
-1. [Submission of the Microprocessor and the first iteration of the assembler - README.pdf](/microprocessor/README.pdf).
-2. [Application built to drive the VGA and second iteration of the assembler - README.pdf](/microprocessor/README-II.pdf).
+1. [Submission of the Microprocessor and the first version of the assembler - README.pdf](/microprocessor/README.pdf).
+2. [Application built to drive the VGA and second version of the assembler - README.pdf](/microprocessor/README-II.pdf).
 
 > To contextualise these files; the course worked by setting out the complete project specification from the beginning, and there were three total submissions at three sequential stages of implementation of the project. The README.pdf was not required but I decided to include one anyway. The Assembler also was **not part of this course**. I implemented this to speed up the assembly coding and iteration (it was either this or code in hexadecimal, the latter is not entirely fun nor conducive to iteration). I keep calling this an assembler, because that is what it functions as, but it's more so an embedded DSL for the ISA I implemented in my microprocessor. The files linked above explain this better.
 >
