@@ -32,7 +32,7 @@
 
 ---
 
-3. Which modules on your transcript correspond to "Embedded Programming", "Signals and Networking" and "Information Theory" on your CV, and whether Embedded Programming involved C or C++?
+3. *Which modules on your transcript correspond to "Embedded Programming", "Signals and Networking" and "Information Theory" on your CV, and whether Embedded Programming involved C or C++?*
 
 
 | CV Course | Corresponding Transcript Course | Additional Comments |
@@ -46,7 +46,7 @@
 
 ---
 
-4. Your own part of the Triton kernel in Higher Order Attention, and whether the code is public?
+4. *Your own part of the Triton kernel in Higher Order Attention, and whether the code is public?*
 
 > The code is not public. My collaborator and I pursued this project as a hobby. The kernel was just a modification of the kernel from the [paper](https://arxiv.org/pdf/2507.02754) I cited in my original email. The reason for this is because our idea, the modification we proposed, unfortunately did not entirely solve the problem we hoped to address. Further our results were not the best and we were unable to find the compute to iterate over enough experiments to actually make substantial progress, so we moved onto other ideas in AI we wanted to explore. 
 > 
@@ -56,24 +56,24 @@
 
 ---
 
-5. The most concurrent code you have written, and in which language. 
+5. *The most concurrent code you have written, and in which language.*
 
 > I've majorly used Python's `threading` and `multiprocessing` when I need concurrency, probably as a consequence of the fact that Python is my most used language. I did quite a bit of this at Mercedes, which is a private codebase and I can't access that. We could discuss this in the meeting too. I did do some coursework when learning concurrency and I often use it for data preprocessing. I will add some of those files in [`/concurrency`](/concurrency/), but they're probably not the best response to "the most concurrent code I've written". 
 
 ---
-
+The most concurrent code you have written, and in which language. 
 *Final Question from your email broken down into points:*
 
 Details on...
 
-7. Whether your MRes research proposal on mechanistic interpretability is still an option for you?
+7. *Whether your MRes research proposal on mechanistic interpretability is still an option for you?*
 
 > [This proposal](/attachments/mres-mechinterp-proposal.pdf) is something I care deeply about and would love to explore this direction with you when we speak. However, from what I've been told this proposal was only supposed to be hypothetical to assess research taste and the ability to draft and plan a research problem as a part of the application materials. Additionally, given the extremely fast pace of mech-interp research and the more recent papers in this space, I imagine this proposal would have to be substantially modified. 
 
-8. Whether you are also discussing projects with other supervisors? 
+8. *Whether you are also discussing projects with other supervisors?* 
 
 > Yes I am currently discussing projects with other supervisors.
 
-9. Whether you plan a PhD in this area?
+9. *Whether you plan a PhD in this area?*
 
 > I'm not sure if this refers to the projects I've chosen or Mechanistic Interpretability, therefore I will answer generally and hope that I answer your question. I fully intend on doing a PhD after my MRes. I hope that the PhD will be with my MRes supervisor and I am not selecting projects in consideration for only the MRes, but also based on topics I am interested to do my PhD in. I think I can answer your question more clearly in-person, so I look forward to discussing this in person. 
